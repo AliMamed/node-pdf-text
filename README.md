@@ -4,6 +4,8 @@ Extract text from a pdf into an array of text 'chunks'.  Useful for doing fuzzy 
 
 Uses Mozilla's [pdf.js](http://mozilla.github.io/pdf.js/) via [pdf2json](https://github.com/modesty/pdf2json).
 
+Forked from [brianc/node-pdf-text](https://github.com/brianc/node-pdf-text) to fix audit issues.
+
 ## install
 
 ```sh

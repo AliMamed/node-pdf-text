@@ -1,5 +1,5 @@
 {
-  "name": "pdf-text",
+  "name": "node-pdf-text",
   "version": "0.4.0",
   "description": "Extract an array of text chunks from a pdf",
   "main": "index.js",
@@ -8,23 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianc/node-pdf-text.git"
+    "url": "git://github.com/AliMamed/node-pdf-text.git"
   },
   "keywords": [
     "pdf",
     "text"
   ],
-  "author": "Brian M. Carlson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brianc/node-pdf-text/issues"
+    "url": "https://github.com/AliMamed/node-pdf-text/issues"
   },
   "devDependencies": {
-    "mocha": "~1.14.0",
-    "okay": "~0.3.0"
+    "mocha": "~8.2.1",
+    "okay": "~1.0.0"
   },
   "dependencies": {
-    "lodash": "~2.3.0",
-    "pdf3json": "0.2.0"
+    "lodash": "~4.17.20",
+    "pdf2json": "^1.2.0"
   }
 }
