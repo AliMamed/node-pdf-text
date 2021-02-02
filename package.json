@@ -26,5 +26,9 @@
   "dependencies": {
     "lodash": "~4.17.20",
     "pdf2json": "^1.2.0"
+  },
+  "homepage": "https://github.com/AliMamed/node-pdf-text#readme",
+  "directories": {
+    "test": "test"
   }
 }
